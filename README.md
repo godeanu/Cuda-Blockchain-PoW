@@ -11,4 +11,5 @@ The code purpose is to find a nonce that, when appended to the block data and ha
 If found, the resulting block hash and the nonce will be printed in the results.csv file, along with the time taken to find the nonce.
 
 To run: `make LOCAL=y run`
+
 Clean: `make clean`
